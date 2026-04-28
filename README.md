@@ -2,6 +2,8 @@
 
 **PoC v1.0** — A 3-tier hierarchical multi-agent system that enables LLMs to autonomously investigate, retrieve, and verify information from persistent storage across sessions.
 
+🌐 MiMo Orbit Application: Evaluation scripts, token metrics & monthly reports will be published here. Open to ecosystem integration & official case studies.
+
 ## Architecture
 
 ```
